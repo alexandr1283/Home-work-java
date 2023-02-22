@@ -5,11 +5,14 @@ public class Main {
 
         System.out.println("Hello CodGit!");
         int a = 3;
-        for(int i = 5; i<=10; i++){
+        for(int i = 5; i<=10; i++)
+        {
             System.out.println("codding " + i);
             i = i + a;
         }
 
-        String b = "city";
+
+
     }
+
 }
