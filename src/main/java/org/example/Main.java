@@ -9,5 +9,6 @@ public class Main {
             System.out.println("codding " + i);
             i = i + a;
         }
+        System.out.println(a);
     }
 }
